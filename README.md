@@ -1,4 +1,4 @@
-![agh hfp preview](https://github.com/ManlyMarco/AGH-HF_Patch/assets/39247311/749e77fd-5623-42b6-8929-53d1f00eb462)
+![DatsuiJanken-HF_Patch_preview](https://github.com/ManlyMarco/DatsuiJanken-HF_Patch/assets/39247311/c6bff1fb-6ab4-4ef8-824e-090f32975ea9)
 # HF Patch for Undressing Rock-Paper-Scissors with Girl Next Door
 An unofficial patch for 隣人彼女と脱衣ジャンケン (DatsuiJanken, Undressing Rock-Paper-Scissors with Girl Next Door) by the circle Visionary. It fully translates and uncensors the game, and includes other useful mods.
 
